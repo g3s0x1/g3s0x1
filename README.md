@@ -16,7 +16,7 @@
 <li> I have no issues with my work being seen by other partners/teams - I am transparent about the documents and presentations I write. Want to know about something I work on? Ask and I will point you to the document or work item where that is outlined!</li>
 <li> Instead of sending status emails, I update work items and have written, internally accessible artifacts that you can refer to for the latest update on a project.</li>
 <li> Occasionally you will get emails from me that announce new features or capabilities. Those will be infrequent.</li>
-<li> I like to stick to the top-right corner of the Impact/Effort matrix.</li>
+<li> I like to stick to the top-right corner of the <a href="https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/">Impact/Effort matrix</a>.</li>
 <li> I value honesty, inclusiveness and directness - if you feel like I am missing the mark on anything, please call me out on it.</li>
 <li> My metaphorical “door” (remember, I am remote?) is always open. Blocked? Need clarification? Have a question? Ask me! I will always be happy to chat.</li>
 <li> Time for self-development is critical. I book regular times to do it and encourage others to do the same.</li>
