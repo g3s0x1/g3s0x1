@@ -22,6 +22,6 @@
 <li> Time for self-development is critical. I book regular times to do it and encourage others to do the same.</li>
 </ol>
 
-✨ “It’s the low-effort, low-impact work that can kill you, because it’s so attractive. Hunter refers to it as “snacking”. It feels rewarding and can solve a short term problem, but if you never eat anything of substance you’ll suffer.” ✨ 
+✨ <strong>“It’s the low-effort, low-impact work that can kill you, because it’s so attractive. Hunter refers to it as “snacking”. It feels rewarding and can solve a short term problem, but if you never eat anything of substance you’ll suffer.” </strong>✨ 
 
 📫 <a href="mailto:g3s0x1@protonmail.com">g3s0x1@protonmail.com</a>
